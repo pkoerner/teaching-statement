@@ -10,7 +10,7 @@ The courses below are those I have taught
 as the sole responsible person.
 Most of them, I have established or significantly re-structured them at HHU.
 
-- [Functional Programming]() (Master course by Jens Bendisposto, split into the two courses below)
+- [Functional Programming](https://github.com/pkoerner/functional-programming-course) (Master course by Jens Bendisposto, split into the two courses below)
 - Introduction to Functional Programming (Bachelor course)
 - Advanced Functional Programming (Master course)
 - Seminar: Blockchain (Master seminar, following the [Bitcoin Book](https://bitcoinbook.cs.princeton.edu/))
