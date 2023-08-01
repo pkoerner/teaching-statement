@@ -1,5 +1,11 @@
 # My Teaching Statement
 
+For information about the process of writing your thesis, see [here](theses.md) or [here](https://stups.pages.cs.uni-duesseldorf.de/abschlussarbeiten/offene-themen/betreuungsleitfaden/).
+
+For topics I am interested in advising, you can start [here](topics.md).
+
+For my experience with and opinion on teaching, read on below.
+
 ## Teaching Experience - My Background
 
 Since the winter term 2015/16, I have been involved in teaching at HHU.

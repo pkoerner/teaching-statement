@@ -54,6 +54,7 @@ and you are expected to present your work after handing in the written part.
    and interests, and what might be suitable topics for you.
    It will benefit greatly if you have taken a look at theses that I already advised
    and my research activities to see what might interest you.
+   I try to give you some ideas that can take my research further [here](topics.md)
 
    For most of the topics based on my own research,
    you will benefit if you know Prolog (see Introduction to Logic Programming),
