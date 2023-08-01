@@ -39,7 +39,30 @@ with following courses:
 - Na, wie war ich? - Feedback- und Evaluationsinstrumente für die Lehre
 
 I have also been nominated for the teaching award at HHU in the years 2021 and 2023.
+I have won the teaching award in 2023 in the category for junior scientists ("Nachwuchswissenschaftler").
 
-## Teaching Experience - My Experience
+
+## Teaching Experience - List of Courses
+
+Semester   | Course                                         | Type     | My Involvement / Implementation
+-----------|------------------------------------------------|----------|------------------------------------------------
+SS 2023    | Vertiefung Funktionale Programmierung: Clojure | Master   | Lecture & Tutorial, Seminar 
+SS 2023    | Theoretische Informatik                        | Bachelor | Tutorials & Organisation
+WS 2022/23 | Einführung in die Funktionale Programmierung   | Bachelor | Lecture & Tutorial, Inverted Classroom, hybrid
+SS 2022    | Vertiefung Funktionale Programmierung: Clojure | Master   | Lecture & Tutorial, Seminar 
+WS 2021/22 | Einführung in die Funktionale Programmierung   | Bachelor | Lecture & Tutorial, Inverted Classroom, hybrid 
+SS 2021    | Vertiefung Funktionale Programmierung: Clojure | Master   | Seminar, online 
+WS 2020/21 | Funktionale Programmierung                     | Master   | Lecture & Tutorial, Inverted Classroom, online
+SS 2020    | Model Checking                                 | Master   | Lecture & Tutorial, Inverted Classroom, online 
+WS 2019/20 | Funktionale Programmierung                     | Master   | Tutorial 
+SS 2019    | Vertiefung Logische Programmierung             | Master   | Tutorial 
+SS 2019    | Blockchain                                     | Master   | Seminar 
+WS 2018/19 | Funktionale Programmierung                     | Master   | Lecture & Tutorial 
+SS 2018    | Model Checking                                 | Master   | Lecture & Tutorial 
+WS 2017/18 | Funktionale Programmierung                     | Master   | Lecture & Tutorial 
+SS 2017    | Theoretische Informatik                        | Bachelor | Tutorials & Organisation
+WS 2016/17 | Funktionale Programmierung                     | Master   | Tutorial 
+WS 2015/16 | Funktionale Programmierung                     | Master   | Tutorial 
 
 
+## Teaching Experience - The Experience
