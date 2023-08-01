@@ -28,7 +28,7 @@ At the HHU, we have three types of theses.
 | 2019       | Isabel Wingen      | Masterarbeit   | You're Not My Type: Analyzing Prolog Programs            |
 | 2020       | Sebastian Sura     | Bachelorarbeit | Eine Paketverwaltung für Prolog                          |
 | 2020       | Maximilian Bauer   | Masterarbeit   | An Improved CSP Interpreter for ProB                     |
-| 2022       | Jan Roßbach        | Bachelorarbeit | Boolean Encoding of Statically Finite Sets in B Machines |
+| 2022       | Jan Roßbach        | Bachelorarbeit | [Boolean Encoding of Statically Finite Sets in B Machines](theses/janrossbach/thesis.pdf) ([Exposé](theses/janrossbach/expose.pdf)) |
 | 2022       | Iven Buchholz      | Bachelorarbeit | Evaluation von Datenstrukturen in Prolog                 |
 | 2021--2022 | Florian Mager      | Projektarbeit  | Erweiterung von lisb für B Zustandsmaschinen             |
 | 2020--2022 | Anne Brecklinghaus | Projektarbeit  | Declarative Debugger für SICStus Prolog                  |

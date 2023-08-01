@@ -43,7 +43,7 @@ At first glance, this approach might seem to be entirely useless from a modeller
 Why should we learn another language / syntax in order to express B?
 
 The main values lies in the potential for DSLs and tool support.
-For example, Jan Roßbach developed an automatic refinement tool that translated sets that are detected as finite during a static analysis to a number of boolean variables (aka bit blasting),
+For example, Jan Roßbach developed an [automatic refinement tool](theses/janrossbach/thesis.pdf) that translated sets that are detected as finite during a static analysis to a number of boolean variables (aka bit blasting),
 and also splices operations if there is only a finite number of possible parameters values.
 This helped in improving performance of partial order reduction.
 
