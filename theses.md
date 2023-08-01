@@ -1,6 +1,10 @@
 # Theses
 
-This section should help you 
+This section should help you with
+
+- getting an idea what the process of writing a thesis is,
+- getting an idea what a thesis can be about,
+- finding some examples of prior theses I advised.
 
 ## Theses I Advised
 
