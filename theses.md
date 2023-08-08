@@ -39,7 +39,7 @@ At the HHU, we have three types of theses.
 | 2022       | Anne Brecklinghaus | Masterarbeit   | A Jupyter Kernel for Prolog                              |
 | 2023       | Christoph Ludolf   | Bachelorarbeit | Runtime Evaluation of Data Structures in Prolog          |
 | 2023       | Julius Armbrüster  | Bachelorarbeit | An Event-B Backend for lisb                              |
-| 2023       | Vladimir Cabacov   | Bachelorarbeit | A Planning Tool for Room Booking Management              |
+| 2023       | Vladimir Cabacov   | Bachelorarbeit | [A Planning Tool for Room Booking Management](theses/vladimircabacov/thesis.pdf) ([Exposé](theses/vladimircabacov/expose.pdf)) |
 | 2023       | Jakob Handke       | Bachelorarbeit | ClojureBlocks: Ein visueller Editor für Clojure          |
 
 
