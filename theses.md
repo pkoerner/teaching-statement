@@ -79,7 +79,7 @@ and you are expected to present your work after handing in the written part.
    Keep in mind to consider alternatives and do your research on related work early.
    Also write down ideas and results as you implement.
 
-   Some techniques presented in [this talk](https://www.youtube.com/watch?v=fTtnx1AAJ-c) might be useful for your thesis.
+   Some techniques presented in [this talk](https://www.youtube.com/watch?v=c5QF2HjHLSE) might be useful for your thesis.
    For example, it is helpful to keep track of a precise glossary (so you are forced to use precise terminology and are less likely to make up your own terms),
    to keep track of your actual problems (and not features) and to document the choices you made for what reason and alternatives.
 
