@@ -41,6 +41,8 @@ At the HHU, we have three types of theses.
 | 2023       | Julius Armbrüster  | Bachelorarbeit | An Event-B Backend for lisb                              |
 | 2023       | Vladimir Cabacov   | Bachelorarbeit | [A Planning Tool for Room Booking Management](theses/vladimircabacov/thesis.pdf) ([Exposé](theses/vladimircabacov/expose.pdf)) |
 | 2023       | Jakob Handke       | Bachelorarbeit | [ClojureBlocks: Ein visueller Editor für Clojure](theses/jakobhandke/thesis.pdf) ([Exposé](theses/jakobhandke/expose.pdf)) |
+| 2023       | Robin Wroblewski   | Bachelorarbeit | [Ein Schachinterpreter in Rosette](theses/robinwroblewski/thesis.pdf) ([Exposé](theses/robinwroblewski/expose.pdf)) |
+| 2023       | Lukas Bradenbrink  | Bachelorarbeit | Eine persistente Queue zur Verbesserung des Model Checking in ProB |
 
 
 ## The Process of a Thesis
