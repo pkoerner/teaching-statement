@@ -57,6 +57,13 @@ This helped in improving performance of partial order reduction.
 - Backends: The other end of lisb is the backend. We can translate the IR - which is loosely based on B's foundation, i.e., set theory - to other formalisms or programming languages.
   Julius Armbrüster worked on generating Event-B projects used in the Rodin tool instead.
   Here, a large variety of tools is possible.
+- Rodin: As lisb allows easy implementation of, e.g., refactoring tools, one possible task is to create a Plug-In for the Eclipse-based [Rodin](https://sourceforge.net/projects/rodin-b-sharp/)-Tool.
+  The goal would be to gain "smart" context menus that are easily extendable. Currently, a refactoring for re-naming a (local) variable is implemented; this should be integrated.
+  However, further useful refactoring operations should be identified and prepared.
+- Rodin/Theories: The [Theory Plug-In](https://wiki.event-b.org/index.php/Theory_Plug-in) for Event-B allows extension of the language by so-called theories.
+  For example, there are theories that add real numbers to the language. One can also add theories for custom, recursive data types (e.g., lists, trees, ...).
+  However, the editor is quite cumbersome and, in some instances, very slow.
+  One could generate the theory-files from lisb instead.
 
 
 #### References
