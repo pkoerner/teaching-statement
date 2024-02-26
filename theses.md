@@ -43,6 +43,7 @@ At the HHU, we have three types of theses.
 | 2023       | Jakob Handke       | Bachelorarbeit | [ClojureBlocks: Ein visueller Editor für Clojure](theses/jakobhandke/thesis.pdf) ([Exposé](theses/jakobhandke/expose.pdf)) |
 | 2023       | Robin Wroblewski   | Bachelorarbeit | [Ein Schachinterpreter in Rosette](theses/robinwroblewski/thesis.pdf) ([Exposé](theses/robinwroblewski/expose.pdf)) |
 | 2023       | Lukas Bradenbrink  | Bachelorarbeit | Eine persistente Queue zur Verbesserung des Model Checking in ProB |
+| 2024       | Mounira Kassous    | Bachelorarbeit | Improving code transformations between frontend and IR in lisb |
 
 
 ## The Process of a Thesis
