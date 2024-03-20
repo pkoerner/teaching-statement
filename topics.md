@@ -50,6 +50,44 @@ This helped in improving performance of partial order reduction.
 
 #### Unfinished Business
 
+There are several categories of work that could be done as (part of) a thesis:
+
+- Extensions regarding the Event-B integration:
+  - Theories:
+    Rodin has a [theory plug-in](https://wiki.event-b.org/index.php/Theory_Plug-in). 
+    The task here would be to design an intermediate language, that generates a theory file. For this, one has to figure out the structure of these files.
+    Second, a requirement is a nicer front-end language that generates the IR.
+  - Proofs:
+    The discharged POs are stored in Rodin as well as the corresponding proofs.
+    It would be nice to (a) generate proofs for certain constructs where the required steps are known (e.g., certain data refinements),
+    and (b) to translate such proofs to/from other proving tools (Isabelle/HOL, Coq, Lean, ...).
+  - Translations from/to B:
+    One can figure out the remainder of the translations to fully cover B and Event-B.
+- Language Frontends:
+  There are a lot of programming languages and formal specifications languages one could add as frontends to lisb.
+  A selection is:
+  - Solidity (reserved)
+  - TLA+ (reserved)
+  - VDM-SL
+  - PDDL
+  - ...
+- Misc. Techniques:
+  - Translations via clojure.core.logic:
+    A proof of concept of the translation from the B DSL to the IR was developed in the bachelor's thesis by Mounira Kassous.
+    It would be nice to explore (a) whether a translation from the IR to the Java AST is possible or
+    (b) whether IR-to-IR transformations are reasonable (e.g. Jan's refinement tool).
+  - Coupling front- and backend:
+    It would be nice to link concepts from DSLs as meta-data to the actual code in the backend.
+    For example, an if-then-else statement would translate to (at least) two different events in Event-B.
+    The goal would be to, for example, link one events with the then-Branch and one with the else-Branch.
+  - Specs, Fuzzing, test.check:
+    One should overhaul the existing specs and use them for automatic testing.
+  - IR-to-IR-transformations / IR analysis:
+    One could implement a wide selection of code analysis or transformations on top of the IR.
+
+
+(older ideas below, possible duplicates)
+
 - DSLs: One vision is that some (any) programming language (or specification language) can simply be transformed in a B model and verified (or even fixed by [B synthesis](https://doi.org/10.1007/978-3-319-98938-9_20) and a minimal change is translated back).
   For this, one needs to explore whether and how concepts such as polymorphism, inheritence and recursion can be expressed in B in a way that is still compatible with tools.
   A concrete example is to translate (a subset of) Solidity contracts to B and verify that no attack is possible.
