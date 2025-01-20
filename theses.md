@@ -44,6 +44,7 @@ At the HHU, we have three types of theses.
 | 2023       | Robin Wroblewski   | Bachelorarbeit | [Ein Schachinterpreter in Rosette](theses/robinwroblewski/thesis.pdf) ([Exposé](theses/robinwroblewski/expose.pdf)) |
 | 2023       | Lukas Bradenbrink  | Bachelorarbeit | Eine persistente Queue zur Verbesserung des Model Checking in ProB |
 | 2024       | Mounira Kassous    | Bachelorarbeit | Improving code transformations between frontend and IR in lisb |
+| 2024       | Max Richter        | Bachelorarbeit | Entwicklung eines Klemmbaustein-Simulators |
 
 
 ## The Process of a Thesis
